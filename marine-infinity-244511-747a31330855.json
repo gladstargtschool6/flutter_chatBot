@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marine-infinity-244511",
+  "private_key_id": "747a31330855e1fac43fe1c625d7b9ff119b2b40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu6nonYjX4+8/k\nqgbWy2jCs/HLgw9lkfqg2EHXfG7SQVijlbK2mKFch1PI2E+jg+51nAWxvDQvH1j9\n5Ew9Gbm+0oJR+WG4om/nhk3hEi/DbTpCmMFTSZMF2BhiRFxzZBKVYKbdrL9t+WXR\naKYS7mfGdBnnryE1WHu3v3uZx1GKC6LZ6s14fo+bxruXf3SsP1iqEM0fbSLQWLos\nJGOyTE7EfQVu5tglRJnATCKlnj4uXMAQ/ziOGNkN/a3vTzgiQb8v9hLFVFq021yN\nbfiUUpd36zulTJgxvNUWQA2kSQt071Qew8J0lht5FV7cpUB/tifI3hh6iyiPxcIs\nalDRqgunAgMBAAECggEAB6FtAMjVB+6cTCJqt/YZtNy6wKEQC+NJZrjobmkcQInf\nPwupxzNzXqD8s7dUChMYVQMgcHeAY0nfzPuno8a6hquSSdcyPya+8P+36AiuEr1y\nHDOjw2ljQ48AyVCoI9SKxv93aBZAJ6EIoxEIpazG1C5+btACB9y7UPHGh5fdY8M5\npo/A/BKpmpKUodFbGN2T+AbV8+I05KvlYkToHUhWLI9GjuUBNs+Cvr1zwJPRNNe4\nLNrtBZfqXRiR7OcqWhCyklfKIFDsTEeF+uMYsfIZb9vNqp7+nnxpaB160aOA5/Ee\nJw7N8s2y6wcEmWo8KzHUoJl9X9wn/+oeYmuSUo7iYQKBgQDnsQes6n5Untcun0YR\njmy9Nfkg/xyLoFSY33EQZ+fbx519sRxVywC+ctC7t3NqoJSbGRR13uimoON6q4Lb\n91VbqF0uSA10WnJbg5PnyHTSfZYXHHFHtUXzIcWj4uo6ouhXRpPDHB23BCN1sj1T\nma2u/R2IQb/5pw1UFs6CJQ0l1wKBgQDBRIT4RsHZRuF5afF+I2dC7ppnvc34FSwm\nem4qLIjaD0dMcxASzNBMSC5xC8EvuQmCIUa7HccrFS2hAC+jmfNn0vWGusmqV4+S\nxpldQuK/4LO9ysowvs/llDsc6vp66PKnOg9+Quwa966E7frml5gzz2m1zE+gzMXV\notHp4iPusQKBgHGMsn1NY2KngkBIMPfzvFky9Yj1XpETn8JYZ7opoll1SDtMrN1j\nI1czQBdvvjH4xzwIG531BEJ9wV7iZbzWR9AnAJvpFib7GOa+4qMK/C4Y/JEREHeb\nYM/aslkyoabhJkt3vH0371w9u/83vpSVUajcRjf8OVDqTT7z+nuQGxR7AoGBALk/\nFPjo0WuSvhHjU17lTlfgXk1rp53PpXboSOnRsAbbOCr16wUqHcnQMfuXGb/Fa3C4\ntpQp0brg3NCCXidBLAZrNX3DUgMdVHeKNnwm3TKvjXkwhCa+7oSOVS69qALhf5x8\nUVdji+25VCUD+kbGLVQTza48vGJThJjmLLAyWuCxAoGAJAaduhS9VuaHBEtn6EJM\nl1xHDNkJcFnlmek4jph8TwNKJ6Q2vktwRuZxHHKdfjfNArBCT0uOVK432CscfwpG\n+7z9O5kCCWHFIhdpbYovpp9cqeDXFcCV0afigwnZIU0Yt9QcG/9JvINq41Y9Vo67\np50ehoaj9y3QI6bL0jOdFSs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-or4zf@marine-infinity-244511.iam.gserviceaccount.com",
+  "client_id": "115808043012808361625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-or4zf%40marine-infinity-244511.iam.gserviceaccount.com"
+}
